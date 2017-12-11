@@ -1,0 +1,37 @@
+DEBUG LOG @ 10 December 2017 @ 23:00:PM
+Database ID: 2
+Action/Info: Order started (Paypal). Form data being sent: 
+<form method="post" id="gateway" action="https://www.sandbox.paypal.com/cgi-bin/webscr"><div>
+<input type="hidden" name="rm" value="2">
+<input type="hidden" name="cmd" value="_xclick">
+<input type="hidden" name="business" value="dreamqueryproject@gmail.com">
+<input type="hidden" name="item_name" value="Dream Query Shopping Cart Order">
+<input type="hidden" name="quantity" value="1">
+<input type="hidden" name="notify_url" value="http://localhost/store/checkout/paypal.php">
+<input type="hidden" name="cancel_return" value="http://localhost/store/index.php?p=cancel&amp;o=2-55514220ec387259ec8b2db4c38b30f86d169ff9">
+<input type="hidden" name="return" value="http://localhost/store/index.php?gw=2-55514220ec387259ec8b2db4c38b30f86d169ff9">
+<input type="hidden" name="amount" value="23.99">
+<input type="hidden" name="currency_code" value="USD">
+<input type="hidden" name="no_shipping" value="1">
+<input type="hidden" name="custom" value="55514220ec387259ec8b2db4c38b30f86d169ff9-2-mswcart">
+<input type="hidden" name="address_country" value="United States">
+<input type="hidden" name="address_city" value="San Jose">
+<input type="hidden" name="address_country_code" value="US">
+<input type="hidden" name="address_state" value="CA">
+<input type="hidden" name="address_street" value="123 Sesame Street">
+<input type="hidden" name="address_zip" value="91234">
+<input type="hidden" name="contact_phone" value="">
+<input type="hidden" name="first_name" value="Jin">
+<input type="hidden" name="last_name" value="Liu">
+<input type="hidden" name="payer_email" value="jin.liu@sjsu.edu">
+<input type="hidden" name="test_ipn" value="1">
+</div></form>
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+
+DEBUG LOG @ 10 December 2017 @ 23:00:PM
+Database ID: 2
+Action/Info: Awaiting callback from gateway..
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+

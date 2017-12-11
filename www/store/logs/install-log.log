@@ -1,0 +1,191 @@
+Script: Maian Cart
+Script Version: 3.3
+PHP Version: 5.6.31
+MySQL Version: 5.7.19
+Server Software: Apache/2.4.27 (Win64) PHP/5.6.31
+Platform: Windows
+=================================================================================
+Date/Time: 10/12/2017 @ 19:13:06
+Table: mc_accounts
+Operation: Create
+Error Code: 1067
+Error Msg: Invalid default value for 'created'
+On Line: 73
+In File: C:\wamp64\www\store\install\control\tables.php
+>>>> = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = >>>>
+Date/Time: 10/12/2017 @ 19:13:06
+Table: mc_accounts_search
+Operation: Create
+Error Code: 1067
+Error Msg: Invalid default value for 'saved'
+On Line: 93
+In File: C:\wamp64\www\store\install\control\tables.php
+>>>> = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = >>>>
+Date/Time: 10/12/2017 @ 19:13:06
+Table: mc_accounts_wish
+Operation: Create
+Error Code: 1067
+Error Msg: Invalid default value for 'saved'
+On Line: 113
+In File: C:\wamp64\www\store\install\control\tables.php
+>>>> = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = >>>>
+Date/Time: 10/12/2017 @ 19:13:06
+Table: mc_activation_history
+Operation: Create
+Error Code: 1067
+Error Msg: Invalid default value for 'restoreDate'
+On Line: 135
+In File: C:\wamp64\www\store\install\control\tables.php
+>>>> = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = >>>>
+Date/Time: 10/12/2017 @ 19:13:06
+Table: mc_banners
+Operation: Create
+Error Code: 1067
+Error Msg: Invalid default value for 'bannerFrom'
+On Line: 264
+In File: C:\wamp64\www\store\install\control\tables.php
+>>>> = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = >>>>
+Date/Time: 10/12/2017 @ 19:13:06
+Table: mc_campaigns
+Operation: Create
+Error Code: 1067
+Error Msg: Invalid default value for 'cExpiry'
+On Line: 353
+In File: C:\wamp64\www\store\install\control\tables.php
+>>>> = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = >>>>
+Date/Time: 10/12/2017 @ 19:13:06
+Table: mc_click_history
+Operation: Create
+Error Code: 1067
+Error Msg: Invalid default value for 'clickDate'
+On Line: 411
+In File: C:\wamp64\www\store\install\control\tables.php
+>>>> = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = >>>>
+Date/Time: 10/12/2017 @ 19:13:06
+Table: mc_coupons
+Operation: Create
+Error Code: 1067
+Error Msg: Invalid default value for 'cUseDate'
+On Line: 478
+In File: C:\wamp64\www\store\install\control\tables.php
+>>>> = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = >>>>
+Date/Time: 10/12/2017 @ 19:13:06
+Table: mc_entry_log
+Operation: Create
+Error Code: 1067
+Error Msg: Invalid default value for 'logdatetime'
+On Line: 541
+In File: C:\wamp64\www\store\install\control\tables.php
+>>>> = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = >>>>
+Date/Time: 10/12/2017 @ 19:13:06
+Table: mc_giftcodes
+Operation: Create
+Error Code: 1067
+Error Msg: Invalid default value for 'dateAdded'
+On Line: 617
+In File: C:\wamp64\www\store\install\control\tables.php
+>>>> = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = >>>>
+Date/Time: 10/12/2017 @ 19:13:06
+Table: mc_products
+Operation: Create
+Error Code: 1067
+Error Msg: Invalid default value for 'pDateAdded'
+On Line: 993
+In File: C:\wamp64\www\store\install\control\tables.php
+>>>> = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = >>>>
+Date/Time: 10/12/2017 @ 19:13:06
+Table: mc_purchases
+Operation: Create
+Error Code: 1067
+Error Msg: Invalid default value for 'purchaseDate'
+On Line: 1099
+In File: C:\wamp64\www\store\install\control\tables.php
+>>>> = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = >>>>
+Date/Time: 10/12/2017 @ 19:13:06
+Table: mc_sales
+Operation: Create
+Error Code: 1067
+Error Msg: Invalid default value for 'purchaseDate'
+On Line: 1278
+In File: C:\wamp64\www\store\install\control\tables.php
+>>>> = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = >>>>
+Date/Time: 10/12/2017 @ 19:13:06
+Table: mc_search_index
+Operation: Create
+Error Code: 1067
+Error Msg: Invalid default value for 'searchDate'
+On Line: 1299
+In File: C:\wamp64\www\store\install\control\tables.php
+>>>> = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = >>>>
+Date/Time: 10/12/2017 @ 19:13:06
+Table: mc_search_log
+Operation: Create
+Error Code: 1067
+Error Msg: Invalid default value for 'searchDate'
+On Line: 1319
+In File: C:\wamp64\www\store\install\control\tables.php
+>>>> = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = >>>>
+Date/Time: 10/12/2017 @ 19:13:06
+Table: mc_settings
+Operation: Create
+Error Code: 1067
+Error Msg: Invalid default value for 'offlineDate'
+On Line: 1517
+In File: C:\wamp64\www\store\install\control\tables.php
+>>>> = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = >>>>
+Date/Time: 10/12/2017 @ 19:13:06
+Table: mc_statuses
+Operation: Create
+Error Code: 1067
+Error Msg: Invalid default value for 'dateAdded'
+On Line: 1562
+In File: C:\wamp64\www\store\install\control\tables.php
+>>>> = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = >>>>
+Date/Time: 10/12/2017 @ 19:13:06
+Table: mc_themes
+Operation: Create
+Error Code: 1067
+Error Msg: Invalid default value for 'from'
+On Line: 1625
+In File: C:\wamp64\www\store\install\control\tables.php
+>>>> = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = >>>>
+Date/Time: 10/12/2017 @ 19:13:06
+Table: mc_tracker_clicks
+Operation: Create
+Error Code: 1067
+Error Msg: Invalid default value for 'clicked'
+On Line: 1664
+In File: C:\wamp64\www\store\install\control\tables.php
+>>>> = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = >>>>
+Date/Time: 10/12/2017 @ 19:19:44
+Table: mc_campaigns
+Operation: Create
+Error Code: 1067
+Error Msg: Invalid default value for 'cAdded'
+On Line: 353
+In File: C:\wamp64\www\store\install\control\tables.php
+>>>> = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = >>>>
+Date/Time: 10/12/2017 @ 19:19:44
+Table: mc_entry_log
+Operation: Create
+Error Code: 1067
+Error Msg: Invalid default value for 'logdatetime'
+On Line: 541
+In File: C:\wamp64\www\store\install\control\tables.php
+>>>> = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = >>>>
+Date/Time: 10/12/2017 @ 19:19:45
+Table: mc_tracker_clicks
+Operation: Create
+Error Code: 1067
+Error Msg: Invalid default value for 'clicked'
+On Line: 1664
+In File: C:\wamp64\www\store\install\control\tables.php
+>>>> = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = >>>>
+Date/Time: 10/12/2017 @ 19:20:27
+Table: mc_campaigns
+Operation: Create
+Error Code: 1067
+Error Msg: Invalid default value for 'cAdded'
+On Line: 353
+In File: C:\wamp64\www\store\install\control\tables.php
+>>>> = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = >>>>

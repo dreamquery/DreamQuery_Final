@@ -1,0 +1,32 @@
+
+  <div id="windowcontent">      <div class="panel panel-default">
+        <div class="panel-heading">Beanstream - Setup</div>
+          <div class="panel-body">
+            1: Sign up for a Beanstream account.<br>
+ 2: Log in to your Beanstream control panel and access "administration" > "account settings" > "order settings".<br>
+ 3: The transaction response urls don`t need changing, these are auto calculated in the code.<br>
+ 4: For "Response Notification" > "Payment Gateway" enter the full http path to the 'checkout/beanstream.php' callback file in your cart installation:<br><br>
+ <b>Example</b>:<br>
+ http://www.example.com/checkout/beanstream.php (Or https if over SSL)<br><br>
+ 5: Check the following:<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;<span class="italics">"Require hash validation on all Payment Gateway transaction requests"</span><br>
+ &nbsp;&nbsp;&nbsp;&nbsp;<span class="italics">"Include hash validation in Transaction Response Page redirection and Payment Gateway Response Notification"</span><br>
+ 6: Enter "Hash key" value and set the "Hash algorithm" to SHA-1.<br>
+ 7: Save settings.<br>
+ 8: Enter applicable details in your Maian Cart admin area:<br><br><b>Sales > Payment Methods > Beanstream</b>
+          </div>
+      </div>      <div class="panel panel-default">
+        <div class="panel-heading">Beanstream - Callback url</div>
+          <div class="panel-body">
+            The callback url for all operations is:<br><br>
+ <b>http://www.example.com/checkout/beanstream.php</b><br>
+ <b>https://www.example.com/checkout/beanstream.php (SSL)</b><br><br>
+ Where 'example.com' is your own domain.
+          </div>
+      </div>      <div class="panel panel-default">
+        <div class="panel-heading">Beanstream - Sandbox</div>
+          <div class="panel-body">
+            Beanstream has an excellent sandbox system. Contact Beanstrean to get a development test account.
+          </div>
+      </div></div>
+  

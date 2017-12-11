@@ -1,0 +1,35 @@
+
+  <div id="windowcontent">      <div class="panel panel-default">
+        <div class="panel-heading">Payza IPN - Setup</div>
+          <div class="panel-body">
+            1: Sign up for a Payza account.<br>
+ 2: Log into your Payza account.<br>
+ 3: From the Main Menu select "IPN Advanced Integration".<br>
+ 4: Set "IPN Status" to "Enabled".<br>
+ 5: Set "Enable IPN Version 2" to "Disabled".<br>
+ 6: Set "Allow Encrypted Payment Details" to "Disabled".<br>
+ 7: For the "Alert Url" enter the full http path to the 'checkout/payza.php' callback file in your cart installation:<br><br>
+ <b>Example</b>:<br>
+ http://www.example.com/checkout/payza.php (Or https if over SSL)<br><br>
+ 8: Generate a "Security Code".<br>
+ 9: Set "Test Mode" to "Enabled" for sandbox system.<br>
+ 10: Enter applicable details in your Maian Cart admin area:<br><br><b>Sales > Payment Methods > Payza</b>
+          </div>
+      </div>      <div class="panel panel-default">
+        <div class="panel-heading">Payza - Callback Url</div>
+          <div class="panel-body">
+            The callback url for all operations is:<br><br>
+ <b>http://www.example.com/checkout/payza.php</b><br>
+ <b>https://www.example.com/checkout/payza.php (SSL)</b><br><br>
+ Where 'example.com' is your own domain.
+          </div>
+      </div>      <div class="panel panel-default">
+        <div class="panel-heading">Payza - Sandbox</div>
+          <div class="panel-body">
+            Payza has a superb test sandbox system, which is located at:<br>
+ <a href="https://sandbox.payza.com/center/signup.aspx" onclick="window.open(this);return false">https://sandbox.payza.com/center/signup.aspx</a><br><br>
+ When you sign up for a sandbox account a personal and business account are created for you. Log into the business account and configure the same as above.<br><br>
+ Note that if the sandbox system is down, you can use the IPN option in your live account. Setup is the same as the sandbox, but make sure test mode is enabled
+ until you are sure it is working.
+          </div>
+      </div></div>
